@@ -1,8 +1,8 @@
-# LockBox 🔐📂
+# SecureShare 🔐📂
 
 ## An Improved Version of CipherFiles. ✨
 
-**LockBox** is a secure file encryption and decryption platform using AES-256-CTR method, that allows users to upload, store, and share files securely. With unique secret keys generated for every file, users can ensure that their data is encrypted, accessible only to authorized individuals with the key. 
+**SecureShare** is a secure file encryption and decryption platform using AES-256-CTR method, that allows users to upload, store, and share files securely. With unique secret keys generated for every file, users can ensure that their data is encrypted, accessible only to authorized individuals with the key. 
 
 ---
 
@@ -69,8 +69,8 @@ Follow these steps to set up the project locally.
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/lockbox.git
-   cd lockbox
+   git clone https://github.com/yourusername/SecureShare.git
+   cd SecureShare
    ```
 
 2. **Install Dependencies**
