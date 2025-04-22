@@ -81,7 +81,7 @@ function Login() {
               gutterBottom
               fontWeight="bold"
             >
-              Welcome Back to LockBox!
+              Welcome Back to Secure Share!
             </Typography>
             <Typography variant="body1" color="textSecondary" mb={4}>
               Please enter your credentials to continue.
