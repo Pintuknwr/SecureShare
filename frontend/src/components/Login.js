@@ -81,7 +81,11 @@ function Login() {
               gutterBottom
               fontWeight="bold"
             >
+<<<<<<< HEAD
               Welcome Back to Secure Share!
+=======
+              Welcome Back to SecureShare!
+>>>>>>> 11a368e9027d19483cfb60baff0f373e5540c34c
             </Typography>
             <Typography variant="body1" color="textSecondary" mb={4}>
               Please enter your credentials to continue.
